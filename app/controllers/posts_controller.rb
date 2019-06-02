@@ -1,6 +1,6 @@
 class PostsController < ApplicationController
 
-helper_method :params
+#helper_method :params
 
 
   def index
